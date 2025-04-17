@@ -40,6 +40,10 @@
     font-size: var(--size-sm);
 }
 
+.work__project-btn {
+    font-size: var(--size-sm);
+}
+
 /* xs */
 @media (min-width: 475px) {
     .hero {
