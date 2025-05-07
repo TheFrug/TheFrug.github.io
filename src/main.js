@@ -11,7 +11,9 @@ import '../styles/components/mobile-nav.css';
 import '../styles/utils.css';
 
 import mobileNav from './utils/mobile-nav';
+import darkMode from './utils/dark-mode';
 
 mobileNav();
+darkMode();
 
 // npm run dev - open site in browser
